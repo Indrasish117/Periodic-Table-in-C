@@ -16,4 +16,8 @@ Sample element data display:
 ![4](https://user-images.githubusercontent.com/49993917/75386951-8db0b500-5908-11ea-8422-3d2935ba8744.png)
 
 Similarly the program can display group, block or period realated information provided they have been stored already.
+![7](https://user-images.githubusercontent.com/49993917/75388359-d10c2300-590a-11ea-9d4c-cb85167a3a37.png)
+
+![8](https://user-images.githubusercontent.com/49993917/75388365-d2d5e680-590a-11ea-8bd5-ad02428c592a.png)
+
 
